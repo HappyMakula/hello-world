@@ -1,2 +1,2 @@
 # hello-world
-repository
+Hi ppl i'm me!
